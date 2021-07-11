@@ -1,4 +1,4 @@
-# CourseSQL
+# Course SQL
  Basic SQL Operations, Generalities, Mysql. Full Mysql
 
 ![imagen](https://user-images.githubusercontent.com/42680508/125184493-90e5d180-e1db-11eb-96b9-85f5be5061d0.png)
